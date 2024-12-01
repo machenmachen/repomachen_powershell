@@ -117,7 +117,7 @@ Include a short snippet about the project's license.
     git add README.md
     New-Item -ItemType File -Name ".gitignore" -Force  
     git add .gitignore
-    git commit -m "Initial commit with .gitignore"
+    git commit -m "Initial commit made with Repomachen"
     git remote add origin "https://github.com/$username/$name.git"
     git push -u origin master
 
